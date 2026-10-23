@@ -1,0 +1,6 @@
+{
+  "name": "API Key Rehberi & Test Paneli",
+  "description": "Google Gemini ve popüler yapay zeka servisleri için API anahtarı alma rehberi, kota bilgileri, güvenlik standartları ve bağlantı test aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
